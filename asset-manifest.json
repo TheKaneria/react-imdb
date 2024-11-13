@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TheKaneria/react-imdb.git/static/css/main.b73877d0.css",
+    "main.js": "/TheKaneria/react-imdb.git/static/js/main.bc59f570.js",
+    "index.html": "/TheKaneria/react-imdb.git/index.html",
+    "main.b73877d0.css.map": "/TheKaneria/react-imdb.git/static/css/main.b73877d0.css.map",
+    "main.bc59f570.js.map": "/TheKaneria/react-imdb.git/static/js/main.bc59f570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b73877d0.css",
+    "static/js/main.bc59f570.js"
+  ]
+}
